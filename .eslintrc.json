@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "airbnb-typescript",
+    "plugin:prettier/recommended"
+  ],
+  "env": {
+    "jest": true
+  },
+  "settings": {
+    "react": {
+      "pragma": "h"
+    }
+  }
+}
